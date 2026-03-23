@@ -1,3 +1,5 @@
+Deployed vercel link : https://project-tracker-frontend-six.vercel.app/
+
 # Project Tracker - Performance Optimized
 
 A modern, high-performance project management dashboard built with React 19, Vite, and Tailwind CSS. This application is specifically optimized to handle 500+ tasks with a smooth 60FPS user experience, achieving a Lighthouse performance score of 90+.
